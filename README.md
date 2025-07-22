@@ -1,4 +1,4 @@
-# Cyber-Security-and-Ethical-Hacking
+# Cyber Security -and-Ethical-Hacking
 
 **COMPANY**: CODTECH IT SOLUTIONS
 **NAME**: AISHWARYA C
@@ -12,7 +12,6 @@
 A File Integrity Checker application with a graphical user interface (GUI) built using Python and Tkinter. This tool monitors file changes in a specified directory by comparing the current state against a previously saved baseline using SHA-256 hashes. It also allows users to generate a PDF summary report of the results.
 
 
-## Features
 
 - **Directory Selection** – Browse and select a directory to monitor.
 - **Save Baseline** – Generate and store SHA-256 hashes of all files in the directory.

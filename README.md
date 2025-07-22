@@ -1,4 +1,4 @@
-# Cyber Security -and-Ethical-Hacking
+# Cyber Security and Ethical Hacking
 
 **COMPANY**: CODTECH IT SOLUTIONS
 **NAME**: AISHWARYA C
